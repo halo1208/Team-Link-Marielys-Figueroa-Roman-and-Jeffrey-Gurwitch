@@ -1,0 +1,23 @@
+/* External style sheet */
+
+body	{font-family: Times New Roman;
+		background-color: #E3CDAA;}
+		/*A neater font is needed for a sleeker look
+		ans the background color is to add life into the webpage,
+		these are not necesary but would make the webpage look nicer 
+		to users*/
+p		{font-size: 18px;}
+		/*Font sze is increased to maximize the space provided*/
+li		{font-size: 18px;}
+		/*The font size for the list is increased to match the paragraphs
+		font size and make it clean*/
+h1		{text-shadow: -4px 4px 6px dimgrey; /*Add show to the main heading of the webpage*/
+		 font-size: 250%;} /* Increasing font size to maximize space*/
+h2		{color: white; /*Colors the inside space of the letters white*/
+		-webkit-text-stroke: 2px black; /* Creates a different type of font where there is 
+		emptyspace in the letters*/
+		font-size: 170%;} /*Increase the font size to better fit the page*/
+em		{color: black;} /*The color of the italisized words is black*/
+/*Resources used: Dr. Munoz's Powerpoints and the Textbook*/
+
+		 
